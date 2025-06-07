@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704733706 source:/mnt/c/Users/theok_iykl84u/OneDrive/Desktop/documents/caseB/caseB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/mman.h>
+	<sys/wait.h>
+	<fcntl.h>
+	<sys/sysinfo.h>
+	<semaphore.h>
+	<math.h>
+
