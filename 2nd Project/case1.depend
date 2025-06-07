@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704724082 source:/mnt/c/Users/theok_iykl84u/OneDrive/Desktop/documents/caseA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/mman.h>
+	<sys/wait.h>
+	<fcntl.h>
+	<sys/sysinfo.h>
+	"integral_mc.h"
+	<math.h>
+
+1704725292 /mnt/c/Users/theok_iykl84u/OneDrive/Desktop/documents/caseA/integral_mc.h
+	<math.h>
+	<sys/time.h>
+
